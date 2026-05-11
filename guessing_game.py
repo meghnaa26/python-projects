@@ -1,4 +1,6 @@
-import random
+# Number Guessing Game
+# Built by [Meghna]
+# A simple game where user guesses a random number between 1-100import random
 play_again = "yes"
 while play_again == "yes":
     k = random.randint(1,100)
