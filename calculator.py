@@ -1,4 +1,7 @@
-calculate_again="yes"
+# Calculator
+# Built by Meghna
+# A calculator that performs +, -, *, /, %, //, ** operations
+# Features: division by zero handling, invalid input handling, repeat optioncalculate_again="yes"
 while calculate_again == "yes":
     valid = True
     n1 = float(input("Enter the first number: "))
