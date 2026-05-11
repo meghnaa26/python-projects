@@ -1,4 +1,7 @@
-tasks=["learn python","learn java","learn html"]
+# To-Do List
+# Built by Meghna
+# A task manager to add, view and remove tasks
+# Features: invalid input handling, task not found handling, menu systemtasks=["learn python","learn java","learn html"]
 choice=""
 while choice != "4":
     print("1. Add task")
