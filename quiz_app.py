@@ -1,4 +1,7 @@
-questions = ["How many letters are there in a word'Yellow'?","what is 1 + 4?","How many days are in a weeK?","How many hours in a day?","Mountains or beaches?"]
+# Quiz App
+# Built by Meghna
+# A 5-question quiz game with scoring system
+# Features: multiple attempts per question, case-insensitive answersquestions = ["How many letters are there in a word'Yellow'?","what is 1 + 4?","How many days are in a weeK?","How many hours in a day?","Mountains or beaches?"]
 answers = ['6','5','7','24','mountains']
 score = 0
 for i in range(len(questions)):
